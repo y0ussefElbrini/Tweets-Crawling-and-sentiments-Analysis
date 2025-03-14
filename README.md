@@ -1,5 +1,4 @@
 # Projet de Crawling et sentiments Analysis
-Example data science portfolio
 
 # Partie 1 : Algorithme de crawling de données:
 
